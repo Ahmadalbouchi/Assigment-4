@@ -1,0 +1,50 @@
+.body {
+  background-color: #f4e136d2;
+  justify-content: center;
+
+}
+.field {
+    width: 1030px;
+}  
+
+.h1 {
+  text-align: center;
+  size: 22px;
+}
+.h2 {
+  text-align: center;
+  size: 20px;
+}
+.p1 {
+  size: 16px;
+}
+.p3 {
+  word-spacing: 155px;
+}
+.d1 {
+  background-color: #b9bdbe7a;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: "Times New Roman", Times, serif;
+}
+.m-t-0 {
+  margin-top: 0px;
+}
+.m-b-0 {
+  margin-bottom: 0px;
+}
+.flex {
+  display: flex;
+}
+.center {
+  text-align: center;
+}
+.space-between {
+  justify-content: space-between;
+}
+.container {
+  width: 80%;
+}
+.m-b-25 {
+  margin-bottom: 25px;
+}
